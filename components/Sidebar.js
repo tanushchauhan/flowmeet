@@ -16,7 +16,8 @@ function Sidebar() {
               href={e.route}
               key={e.text}
               className={`flex gap-4 items-center p-4 rounded-lg justify-start ${
-                pathname === e.route || pathname.startsWith(e.route)
+                pathname === e.route ||
+                (pathname.startsWith(e.route) && e.route !== "/")
                   ? "bg-blue-1"
                   : ""
               }`}
