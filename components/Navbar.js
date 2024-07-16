@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import MobileNav from "./MobileNav";
 
 function Navbar() {
   return (
@@ -11,6 +12,7 @@ function Navbar() {
           height={105}
           alt="Flow Meet Logo"
           className="max-sm:hidden"
+          priority
         ></Image>
         <Image
           src="/icons/logo.svg"
@@ -18,8 +20,12 @@ function Navbar() {
           height={25}
           alt="Flow Meet Logo"
           className="hidden max-sm:block"
+          priority
         ></Image>
       </Link>
+      <div className="flex-between gap-5">
+        <MobileNav />
+      </div>
     </nav>
   );
 }
