@@ -25,6 +25,9 @@ module.exports = {
         blue: {
           1: "#0E78F9",
         },
+        sky: {
+          1: "#C9DDFF",
+        },
       },
       keyframes: {
         "accordion-down": {
