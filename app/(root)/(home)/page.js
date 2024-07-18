@@ -1,3 +1,5 @@
+import HomeCards from "@/components/HomeCards";
+
 function Home() {
   const pres = new Date();
   const t = pres.toLocaleTimeString("en-US", {
@@ -20,6 +22,7 @@ function Home() {
           </div>
         </div>
       </div>
+      <HomeCards />
     </section>
   );
 }
