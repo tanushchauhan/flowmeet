@@ -40,7 +40,7 @@ Next I will integrate Stream into this and start working on the UI for the appli
 
 ## Authors
 
-- [@tanushchauhan](https://www.github.com/octokatherine)
+- [@tanushchauhan](https://github.com/tanushchauhan)
 
 ## Screenshots
 
