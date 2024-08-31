@@ -44,8 +44,8 @@ Next I will integrate Stream into this and start working on the UI for the appli
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/tanushchauhan/flowmeet/main/1.png)
+![App Screenshot](https://raw.githubusercontent.com/tanushchauhan/flowmeet/main/screenshots/1.png)
 
-![App Screenshot](https://raw.githubusercontent.com/tanushchauhan/flowmeet/main/2.png)
+![App Screenshot](https://raw.githubusercontent.com/tanushchauhan/flowmeet/main/screenshots/2.png)
 
-![App Screenshot](https://raw.githubusercontent.com/tanushchauhan/flowmeet/main/3.png)
+![App Screenshot](https://raw.githubusercontent.com/tanushchauhan/flowmeet/main/screenshots/3.png)
