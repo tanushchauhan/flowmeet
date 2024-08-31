@@ -7,21 +7,21 @@ export const sidebar = [
   {
     imgUrl: "/icons/upcoming.svg",
     route: "/upcoming",
-    text: "Upcoming",
+    text: "Item 2",
   },
   {
     imgUrl: "/icons/previous.svg",
     route: "/previous",
-    text: "Previous",
+    text: "Item 3",
   },
   {
     imgUrl: "/icons/recordings.svg",
     route: "/recordings",
-    text: "Recordings",
+    text: "Item 4",
   },
   {
     imgUrl: "/icons/per.svg",
     route: "/private-room",
-    text: "Private Room",
+    text: "Item 5",
   },
 ];
